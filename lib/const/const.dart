@@ -1,0 +1,11 @@
+export 'package:flutter/material.dart';
+export 'package:flutter_assignment_1/controllers/cart_controller.dart';
+export 'package:flutter_assignment_1/controllers/favourates_controller.dart';
+export 'package:flutter_assignment_1/controllers/notification_controller.dart';
+export 'package:flutter_assignment_1/views/cart_screen.dart';
+export 'package:flutter_assignment_1/views/favourates_screen.dart';
+export 'package:flutter_assignment_1/views/notification_screen.dart';
+export 'package:get/get.dart';
+export 'package:flutter_assignment_1/navigaton_bar.dart';
+export 'package:velocity_x/velocity_x.dart';
+export 'package:persistent_bottom_nav_bar/persistent_tab_view.dart';
